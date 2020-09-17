@@ -1,2 +1,8 @@
-# Earthquake Recording Mapping
-In this project I wanted to create a tool that could visualize earthquakes of a certain magnitude around the world.  The information used for this is from the USGS website and their records of significant earthquakes over the past 30 days.  Magnitude is show a color scale and by radius of the circles on the visuzalization.
+# Earthquake Mapping
+This project you will find the following files:
+ - "index.html" - this contains the code for the creation of the web page.
+ 
+ In the static folder you will find,
+ - "config.js" - this is where an api key for Mapbox (https://www.mapbox.com/) is used to create the map base.
+ - "logic.js" - this is the code where the map and earthquake data are combined and overlapped on the webpage creating the visual.
+ - "style.css" - is the tweaking of the page to make the map and legend appear correctly.
